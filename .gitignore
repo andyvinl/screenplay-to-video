@@ -1,0 +1,14 @@
+# Environments
+.env
+.venv/
+env/
+__pycache__/
+
+# Mac OS files
+.DS_Store
+
+# Media and Inputs
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
